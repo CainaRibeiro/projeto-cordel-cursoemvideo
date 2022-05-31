@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+footer p {
+    padding: 10px 0px;
+}
+
+footer a {
+    color: rgb(202, 202, 202);
+    text-decoration: none;
+    font-variant: small-caps;
+}
+
+footer a:hover {
+    color: aqua;
+    text-decoration: underline;
+}
